@@ -107,7 +107,7 @@ const AppDetails = () => {
         <BerChartComponent ratings={ratings}></BerChartComponent>
         <div className="mt-20">
           <h2 className="text-2xl font-semibold text-[#001931]">Description</h2>
-          <p className="text-[#627382] text-xl">{description}:</p>
+          <p className="text-[#627382] text-xl text-justify">{description}:</p>
         </div>
       </div>
     </div>
