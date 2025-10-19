@@ -1,16 +1,16 @@
-# React + Vite
+Description:
+B12-A08-Hero-Apps is a modern React-based web application designed to showcase, manage, and interact with a collection of apps in a user-friendly interface. The project focuses on creating reusable components, dynamic routing, and state management to provide smooth navigation and responsive performance. It includes features like searching apps, installing/uninstalling apps, sorting, filtering, and displaying detailed app information with an interactive UI. Built with React best practices, the project emphasizes component reusability, hooks, and local storage management, making it both scalable and efficient.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies Used:
 
-Currently, two official plugins are available:
+React.js (Functional Components, Hooks)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router (Dynamic Routing)
 
-## React Compiler
+Context API / Props Drilling (State Management)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tailwind CSS (Responsive UI Styling)
 
-## Expanding the ESLint configuration
+Local Storage (Data Persistence)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Toast Notifications (User Feedback)
